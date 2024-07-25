@@ -1,4 +1,4 @@
-SearchMePlease
+# SearchMePlease
 SearchMePlease is a simple web application that allows users to search for images using the Unsplash API. Users can input a search term and receive a list of images related to their query. The app also includes a "Show More" button to load additional results.
 
 Features
